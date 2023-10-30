@@ -272,9 +272,20 @@ LAMPIRAN
 ![4 5 tree 1](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/6afb43dd-20a9-4da9-8a4e-7a4369105722)
 Gambar 4.5 Tree 1
 2.	
+
+
+
+
+![4 6 tree 2](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/3c7e72ac-df59-44bb-975c-d3810df71cfa)
  
 Gambar 4.6 Tree 2
 3.	
+
+
+
+
+
+![4 7 tree 3](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/2afec258-d678-4f56-b81f-c5ee31b8ec10)
  
 Gambar 4.7 Tree 3
 
@@ -339,15 +350,20 @@ Kelas EightPuzzleSpace:
 Kode ini mengimplementasikan algoritma pencarian yang menjalankan tugas mencari solusi dalam masalah 8-puzzle. Ini mencakup eksplorasi berbagai kemungkinan keadaan, mengevaluasi biaya menggunakan heuristik, dan memilih simpul-simpul yang menjanjikan untuk lebih lanjut dieksplorasi. Pencarian akan terus berlanjut hingga solusi ditemukan atau semua kemungkinan telah dijelajahi.
 
 Hasil Program:
+![5 8](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/385ef641-2a3d-4600-8a61-e6158f56f105)
  
 Ubahlah keadaan awal (initial state) dan keadaan tujuan (goal state) dalam program di atas untuk mencocokkan Gambar 5.8. Selanjutnya, tentukan langkah-langkah yang diperlukan agar puzzle mencapai keadaan tujuan. Lalu, analisis dan perbandingkan solusi ini dengan solusi pada poin 1.
 Hasil Program:
+![5 9](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/fc5c1719-2b45-4ea3-9be8-9e4ab2f30387)
+
  
 Ubahlah keadaan awal (initial state) dan keadaan tujuan (goal state) dalam program di atas agar sesuai dengan Gambar 5.9. Selanjutnya, identifikasikan langkah-langkah yang diperlukan untuk mencapai keadaan tujuan dalam puzzle. Lakukan analisis dan perbandingan dengan solusi pada poin 1 dan 2.
 Hasil Program:
+![5 10](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/25141a47-4bb5-4560-8b08-1707c465d14c)
  
 Ubahlah keadaan awal (initial state) dan keadaan tujuan (goal state) dalam program di atas dengan Gambar 5.10. Selanjutnya, tentukan langkah-langkah yang perlu diambil agar puzzle mencapai keadaan tujuan tersebut. Selanjutnya, lakukan analisis dan perbandingan dengan solusi pada poin 1, 2, dan 3.
 Hasil Program:
+![5 11](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/a70ea34b-487f-4e0f-aa18-63e50731cc74)
  
 Ubahlah keadaan awal (initial state) dan keadaan tujuan (goal state) dalam program dan kelas-kelas di atas agar sesuai dengan Gambar 5.11. Selanjutnya, identifikasikan langkah-langkah yang diperlukan untuk mencapai keadaan tujuan dalam puzzle.
 Hasil Program:
