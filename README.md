@@ -264,7 +264,9 @@ kode diatas memberikan output (F,d=0) (B,d=1) (G,d=1) (A,d=2) (D,d=2) (I,d=2) (C
 
 LAMPIRAN
 1.	
- 
+#4.5
+![4 5 tree 1](https://github.com/SaktiaWardhana/Praktikum-4-dan-5/assets/148610993/6afb43dd-20a9-4da9-8a4e-7a4369105722)
+
 Gambar 4.5 Tree 1
 2.	
  
